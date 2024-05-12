@@ -1,4 +1,4 @@
-### cout << "Hello World 👋";
+### cout << "Hello World 👋" << endl;
 
 - 🔭 I’m currently studying computer engineering at Universidade Federal do Ceará (UFC)
 - 🌱 I’m currently learning Python and Java Script
