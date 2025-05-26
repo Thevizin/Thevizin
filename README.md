@@ -1,9 +1,9 @@
 ### cout << "Hello World 👋" << endl;
 
 - 🔭 I’m currently studying computer engineering at Universidade Federal do Ceará (UFC)
-- 🌱 I’m currently learning Python and Java Script
-- 🥐Beginning French studies (A1S2)
-- 🏆 Participant in programming competitions
+- 📚 Conducting research in Federated Learning
+- 🥐Studying French(A2S2)
+- 🖧 Exploring Computer Networks and Operating Systems
 - 😄 Pronouns: He/Him
 
 
