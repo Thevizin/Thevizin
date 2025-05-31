@@ -24,7 +24,7 @@
   </div>
   <div style="margin-left: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thevizin&layout=donut" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thevizin&layout=monokai" alt="Top Langs">
     </a>
   </div>
 </div>
