@@ -18,8 +18,11 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
 </p>
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Thevizin&show_icons=true&theme=monokai" alt="Anurag's GitHub stats">
+ 
+  <div style="margin-left: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thevizin&layout=monokai" alt="Top Langs">
+    </a>
   </div>
 
 <div style="display: inline_block"><br/>
