@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/vinícius-filgueiras-9aba8324b/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@Filgueiras-" title="Youtube">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Youtube"/></a>
 </p>
 
   <div >
