@@ -2,36 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VINÍCIUS%20FILGUEIRAS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineering%20%7C%20Federated%20Learning%20Researcher&descAlignY=51&descAlign=50"/>
 </div>
 
-<div align="center">
-  
-```
-    ████████╗██╗  ██╗███████╗██╗   ██╗██╗███████╗██╗███╗   ██╗
-    ╚══██╔══╝██║  ██║██╔════╝██║   ██║██║╚══███╔╝██║████╗  ██║
-       ██║   ███████║█████╗  ██║   ██║██║  ███╔╝ ██║██╔██╗ ██║
-       ██║   ██╔══██║██╔══╝  ╚██╗ ██╔╝██║ ███╔╝  ██║██║╚██╗██║
-       ██║   ██║  ██║███████╗ ╚████╔╝ ██║███████╗██║██║ ╚████║
-       ╚═╝   ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝
-                                                              
-    ██╗   ██╗███████╗██████╗ ███████╗██╗   ██╗███████╗     ██╗
-    ██║   ██║██╔════╝██╔══██╗██╔════╝██║   ██║██╔════╝    ██╔╝
-    ██║   ██║█████╗  ██████╔╝███████╗██║   ██║███████╗   ██╔╝ 
-    ╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║██║   ██║╚════██║  ██╔╝  
-     ╚████╔╝ ███████╗██║  ██║███████║╚██████╔╝███████║ ██╔╝   
-      ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝ ╚═╝    
-                                 
-    ████████████████████████████████████████████████████████
-    █ 🚀 FEDERATED LEARNING RESEARCHER                       █
-    █ 💻 COMPUTER ENGINEERING @ UFC                          █
-    █ 🤖 AI ENTHUSIAST | 🌐 DISTRIBUTED SYSTEMS             █
-    ████████████████████████████████████████████████████████
-                                 
-           ▲          PRESS ENTER TO CONTINUE          ▲
-          ▲ ▲                                         ▲ ▲
-         ▲   ▲         >>> LOADING PROFILE <<<       ▲   ▲
-```
-
-</div>
-
 <img width="40%" align="right" alt="profile-image" src="https://i.pinimg.com/736x/e1/67/f4/e167f45d10c090dec114b4ddec8dbeb2.jpg"/>
 
 ## 👨‍💻 About Me
