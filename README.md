@@ -8,7 +8,7 @@
 
 🎓 **Computer Engineering** student at **UFC** (Federal University of Ceará)  
 🔬 Researcher in **Federated Learning** - exploring distributed machine learning systems  
-🇫🇷 Currently learning **French** (A2.2 level) at Casa de Cultura Francesa - UFC  
+🇫🇷 Currently learning **French** (B1.1 level) at Casa de Cultura Francesa - UFC  
 🖧 Deep diving into **Computer Networks** and **Operating Systems**  
 💡 Passionate about cutting-edge technologies and distributed systems  
 
